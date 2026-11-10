@@ -1,162 +1,165 @@
-==================================================================
-NOME DO MOD
-==================================================================
-Tradução PT-BR - Croc Legend of the Gobbos Remastered
+# Croc: Legend of the Gobbos Remastered — Tradução PT-BR
 
-==================================================================
-RESUMO
-==================================================================
-Tradução completa para Português do Brasil: menus, opções, nomes das fases, chefes, segredos e toda a Crocipedia (entrevistas, galeria, curiosidades). Instalador automático, com desinstalação que devolve o jogo ao original. Não precisa mudar o idioma do Windows.
+Tradução para o **Português do Brasil** de *Croc: Legend of the Gobbos Remastered* (PC), com instalador automático e desinstalação limpa.
 
-==================================================================
-DESCRIÇÃO
-==================================================================
-[center][size=6][b]Croc: Legend of the Gobbos Remastered[/b][/size]
-[size=5]Tradução para o Português (Brasil)[/size]
-[size=3]por [b]MrGeH[/b][/size][/center]
+Feita por **MrGeH**.
 
-[line]
+> Projeto de fã, sem fins lucrativos e sem relação com a Argonaut Games, a Titanium Studios ou as lojas onde o jogo é vendido. Você precisa ter o jogo original.
 
-[size=4][b]Sobre o mod[/b][/size]
-O remaster de Croc não tem português entre os idiomas oficiais (só inglês, alemão, francês, italiano e espanhol). Este mod traduz o jogo para o [b]Português do Brasil[/b], com instalador automático e desinstalação limpa.
+---
 
-Os textos foram traduzidos e adaptados, incluindo os trocadilhos dos nomes das fases (ex.: [i]"lights camel action"[/i] virou [i]"luz, camelo, ação"[/i] e [i]"licence to chill"[/i] virou [i]"permissão para congelar"[/i]).
+## Download
 
-[line]
+Baixe o arquivo `Croc Traducao PT-BR MrGeH.zip` na página de **[Releases](../../releases)**.
 
-[size=4][b]O que é traduzido[/b][/size]
-[list]
-[*]Menu principal, pausa, fim de jogo e mensagens de salvar/apagar
-[*]Opções de controles, gráficos, tela e áudio
-[*]Nomes das 45 fases, dos chefes e dos segredos
-[*]Tela de conquistas (títulos e mensagens da interface)
-[*]Toda a [b]Crocipedia[/b] (conteúdo bônus): descrições das imagens, produtos, arte conceitual, fases de teste, biografias das entrevistas e textos dos remixes
-[*]Nomes das faixas da trilha sonora
-[*]Títulos dos créditos
-[*]Nomes das teclas e botões do controle
-[/list]
+## O que é traduzido
 
-[size=4][b]O que fica em inglês[/b][/size]
-[list]
-[*]Nomes próprios e títulos de jogos, filmes e revistas, seguindo as orientações deixadas pelos tradutores oficiais do jogo (ex.: "Chumly, o Rocket Man", "Itsy, o Ice Demon")
-[*]Nomes das pessoas nos créditos
-[*]Nomes e descrições das conquistas da loja (vêm da plataforma, não dos arquivos do jogo)
-[*]Textos desenhados dentro de imagens e os vídeos
-[/list]
+- Menu principal, pausa, fim de jogo e mensagens de salvar/apagar
+- Opções de controles, gráficos, tela e áudio
+- Nomes das 45 fases, dos chefes e dos segredos
+- Tela de conquistas (títulos e mensagens da interface)
+- Toda a **Crocipedia** (conteúdo bônus): descrições das imagens, produtos, arte conceitual, fases de teste, biografias das entrevistas e textos dos remixes
+- Nomes das faixas da trilha sonora, títulos dos créditos, nomes das teclas e botões do controle
 
-[line]
+Os trocadilhos dos nomes das fases foram adaptados (por exemplo, *"lights camel action"* → *"luz, camelo, ação"*).
 
-[size=4][b]Requisitos[/b][/size]
-[list]
-[*]Croc: Legend of the Gobbos Remastered para PC
-[*]Windows 10 ou 11 (o instalador usa componentes que já vêm no Windows; não precisa instalar nada)
-[/list]
+**Fica em inglês:** nomes próprios e títulos de jogos/filmes/revistas (seguindo as orientações dos tradutores oficiais), nomes de pessoas nos créditos, nomes e descrições das conquistas da loja, textos desenhados em imagens e os vídeos.
 
-[line]
+## Requisitos
 
-[size=4][b]Instalação[/b][/size]
-[list=1]
-[*][b]Feche o jogo[/b], se ele estiver aberto.
-[*]Baixe o arquivo do mod e [b]extraia o .zip[/b] em qualquer pasta.
-[*]Execute [b]"Instalar Traducao PT-BR.exe"[/b].
-[*]Confira a [b]pasta do jogo[/b] mostrada na janela (é a pasta onde fica o [b]Croc64.exe[/b]).
-O instalador tenta encontrar a pasta sozinho na versão GOG. Se o campo estiver vazio ou errado, clique em [b]"Procurar..."[/b] e escolha a pasta do jogo.
-[*]Clique em [b]"Instalar tradução"[/b].
-[*]Abra o jogo. Pronto!
-[/list]
+- *Croc: Legend of the Gobbos Remastered* para PC
+- Windows 10 ou 11 (não precisa instalar nada além disso)
 
-[b]Dica:[/b] se você colocar o instalador dentro da pasta do jogo, ele encontra a pasta automaticamente.
+## Instalação
 
-[spoiler]
-[b]Onde fica a pasta do jogo?[/b]
-[list]
-[*][b]GOG Galaxy:[/b] na biblioteca, clique no jogo > ícone de ajustes (engrenagem) > Gerenciar instalação > Mostrar pasta.
-[*][b]Steam:[/b] na biblioteca, clique com o botão direito no jogo > Propriedades > Arquivos instalados > Procurar.
-[/list]
-[/spoiler]
+1. Feche o jogo.
+2. Extraia o `.zip` em qualquer pasta.
+3. Execute **`Instalar Traducao PT-BR.exe`**.
+4. Confira a pasta do jogo (a que tem o `Croc64.exe`). Na versão GOG o instalador encontra a pasta sozinho; caso contrário, clique em **Procurar...**.
+5. Clique em **Instalar tradução**.
 
-[line]
+Não é preciso mudar o idioma do Windows nem do jogo.
 
-[size=4][b]Desinstalação[/b][/size]
-[list=1]
-[*]Feche o jogo.
-[*]Execute [b]"Instalar Traducao PT-BR.exe"[/b] de novo.
-[*]Clique em [b]"Desinstalar (voltar ao inglês)"[/b].
-[/list]
-O instalador já traz os textos originais em inglês e desfaz só o que ele mesmo alterou. Funciona mesmo se você tiver instalado mais de uma vez.
+## Desinstalação
 
-Outra forma: usar [b]"Verificar/Reparar arquivos"[/b] no GOG Galaxy ou na Steam, que restaura os arquivos originais do jogo.
+Execute o instalador de novo e clique em **Desinstalar (voltar ao inglês)**. Também é possível usar "Verificar/Reparar arquivos" no GOG Galaxy ou na Steam.
 
-[line]
+## Perguntas frequentes
 
-[size=4][b]Perguntas frequentes[/b][/size]
+**Preciso mudar o idioma do Windows?**
+Não. O jogo escolhe o idioma pelo Windows, mas só reconhece `en-US`, `de-DE`, `fr-FR`, `it-IT` e `es-ES`. Em qualquer outro idioma (como `pt-BR`) ele usa o inglês, então a tradução é gravada no lugar do inglês e aparece automaticamente.
 
-[b]Preciso mudar o idioma do Windows ou do jogo?[/b]
-Não. O jogo escolhe o idioma pelo Windows, mas só reconhece inglês, alemão, francês, italiano e espanhol. Em qualquer outro idioma (como português), ele usa o inglês. Por isso a tradução é gravada [b]no lugar do inglês[/b], e aparece automaticamente.
+**Meu Windows está em espanhol, francês, alemão ou italiano.**
+O jogo continuará no idioma do Windows, pois ele tem tradução oficial para esses idiomas. Só os créditos da tradução aparecem.
 
-[b]E se meu Windows estiver em espanhol, francês, alemão ou italiano?[/b]
-Nesse caso o jogo continua no idioma do seu Windows, porque ele tem tradução oficial para esses idiomas. Para jogar em português, o Windows precisa estar em português, inglês ou outro idioma que o jogo não suporte.
+**A tradução sumiu depois de uma atualização.**
+Atualizações e a verificação de arquivos restauram os originais. Execute o instalador de novo.
 
-[b]Atualizei o jogo / verifiquei os arquivos e a tradução sumiu.[/b]
-Atualizações e a verificação de arquivos restauram os originais. É só executar o instalador e clicar em "Instalar tradução" de novo.
+**O antivírus reclamou do instalador.**
+O executável não tem assinatura digital. O código-fonte está neste repositório, e você pode compilá-lo você mesmo (veja abaixo).
 
-[b]O instalador diz que o jogo está aberto.[/b]
-Feche o jogo completamente (confira no Gerenciador de Tarefas se o [i]Croc64.exe[/i] ainda está rodando) e tente de novo.
+---
 
-[b]Meu antivírus reclamou do instalador.[/b]
-O instalador é um programa novo e sem assinatura digital, e alguns antivírus desconfiam disso. O código-fonte completo está incluído na pasta [b]src[/b] do download, para quem quiser conferir ou compilar por conta própria.
+## Como funciona
 
-[b]Funciona com saves antigos e conquistas?[/b]
-Sim. O mod só altera textos; saves e conquistas não são afetados.
+O remaster guarda os textos da interface em um banco SQLite, `croc.db`, na tabela `LangTokens`:
 
-[line]
+```sql
+CREATE TABLE LangTokens(
+    id    INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    token TEXT NOT NULL,
+    lang  TEXT DEFAULT NULL,  -- código ISO 639-1
+    value TEXT NOT NULL,
+    UNIQUE(token, lang)
+)
+```
 
-[size=4][b]Arquivos alterados[/b][/size]
-[list]
-[*][i]croc.db[/i]: textos do jogo
-[*][i]remaster\ui\frontend.rml[/i] e [i]remaster\ui\frontend.rcss[/i]: crédito da tradução no canto da tela principal
-[*][i]remaster\ui\frontend\credits-html.html[/i]: crédito da tradução nos créditos finais
-[/list]
+O jogo busca cada texto com:
 
-[line]
+```sql
+SELECT value FROM LangTokens WHERE token = ?1 AND (lang = ?2 OR lang IS NULL) ORDER BY lang DESC LIMIT 1;
+```
 
-[size=4][b]Problemas conhecidos[/b][/size]
-[list]
-[*]Textos em português costumam ser mais longos. Se algum texto ficar cortado ou sobreposto, me avise nos comentários com uma captura de tela e o nome da tela.
-[/list]
+Como o executável tem uma lista fixa de idiomas e usa o inglês para os demais, o instalador:
 
-Encontrou erro de tradução ou digitação? Deixe um comentário ou abra um relatório de bug. Toda ajuda é bem-vinda!
+1. Grava cada texto traduzido como `lang='pt'` **e** por cima de `lang='en'`.
+2. Grava o título do crédito da tradução também em `de`, `fr`, `es` e `it`, para ele aparecer em qualquer idioma.
+3. Insere o crédito nos arquivos da interface (RmlUi):
+   - `remaster\ui\frontend.rml` e `remaster\ui\frontend.rcss`: texto no canto da tela principal
+   - `remaster\ui\frontend\credits-html.html`: seção nos créditos finais
 
-[line]
+Para desinstalar, o instalador apaga as linhas `pt`, devolve os textos originais em inglês (que ele carrega embutidos) e remove só os blocos que ele mesmo inseriu. Por isso a desinstalação não depende de backup e funciona mesmo depois de instalar várias vezes.
 
-[size=4][b]Créditos[/b][/size]
-[list]
-[*][b]Tradução e instalador:[/b] MrGeH
-[*][b]Jogo:[/b] Argonaut Games e Titanium Studios
-[/list]
+O banco é acessado pelo `winsqlite3.dll`, que já vem no Windows 10/11, e a interface do instalador usa Windows Forms (.NET Framework 4).
 
-Este é um projeto de fã, sem fins lucrativos e sem relação com a Argonaut Games, Titanium Studios ou as lojas onde o jogo é vendido. Você precisa ter o jogo original para usar o mod.
+## Estrutura do repositório
 
-[line]
+```
+├── README.md
+├── LEIA-ME.txt                 # instruções que vão junto no .zip
+├── Descricao NexusMods.txt     # texto da página no Nexus Mods (BBCode)
+└── src/
+    ├── Instalador.cs           # código do instalador (C#)
+    ├── compilar.bat            # compila o instalador
+    ├── traducao.tsv            # textos em português (token<TAB>texto)
+    ├── ingles_original.tsv     # textos originais em inglês, usados para desinstalar
+    └── exportar_traducao.py    # gera ingles_original.tsv a partir do croc.db original
+```
 
-[size=4][b]English[/b][/size]
-Brazilian Portuguese translation for Croc: Legend of the Gobbos Remastered: menus, options, level names, bosses, secrets and the whole Crocipedia bonus content.
-[b]Install:[/b] close the game, run "Instalar Traducao PT-BR.exe", check the game folder (the one with Croc64.exe) and click "Instalar tradução".
-[b]Uninstall:[/b] run it again and click "Desinstalar (voltar ao inglês)".
-Note: the Portuguese text replaces the English text, which is what the game shows when Windows is set to any language other than German, French, Italian or Spanish.
+### Formato dos arquivos `.tsv`
 
-==================================================================
-NOTAS DA VERSÃO (campo "Changelog")
-==================================================================
-1.0
-- Lançamento inicial: tradução completa da interface e da Crocipedia
-- Instalador com detecção automática da pasta (GOG) e desinstalação limpa
+- `traducao.tsv`: `token<TAB>texto`
+- `ingles_original.tsv`: `token<TAB>1<TAB>texto original`, ou `token<TAB>0<TAB>` quando o token não existe no jogo original (tokens novos, como os créditos da tradução)
 
-==================================================================
-SUGESTÕES PARA OS OUTROS CAMPOS DO NEXUS
-==================================================================
-Categoria: Translations / Traduções
-Idioma: Portuguese
-Tags: Translation, Portuguese, PT-BR, Brazilian Portuguese, Localization
-Arquivo principal: "Croc Traducao PT-BR MrGeH.zip" (Main Files)
-Permissões sugeridas: permitir uso pessoal; pedir autorização para reenviar ou modificar.
+Quebras de linha, tabulações e barras invertidas são escritas como `\n`, `\t` e `\\`.
+
+Alguns textos contêm marcações que **precisam ser mantidas** exatamente como estão:
+
+| Marcação | Exemplo |
+|---|---|
+| Botões de ação | `<actionbtn action='select'/> Selecionar` |
+| Valores dinâmicos | `<data handle='keep_timer'/>`, `{{num_achieved}}` |
+| Formatação C | `%s`, `%d`, `%%` |
+| Espaço HTML | `&nbsp;` |
+
+## Compilando
+
+Não é preciso instalar o Visual Studio: o compilador C# já vem com o Windows.
+
+```bat
+src\compilar.bat
+```
+
+O instalador é gerado como `Instalar Traducao PT-BR.exe` na raiz do projeto.
+
+### Testando pela linha de comando
+
+```bat
+"Instalar Traducao PT-BR.exe" /instalar "C:\caminho\do\jogo"
+"Instalar Traducao PT-BR.exe" /desinstalar "C:\caminho\do\jogo"
+```
+
+O resultado é salvo em `traducao_ptbr_log.txt`, dentro da pasta do jogo. Teste sempre numa **cópia** da pasta do jogo.
+
+## Contribuindo
+
+Encontrou um erro de tradução ou um texto cortado na tela? Abra uma [issue](../../issues) com a tela onde aparece e, se possível, uma captura de tela.
+
+Para corrigir um texto:
+
+1. Edite a linha correspondente em `src/traducao.tsv`, mantendo as marcações da tabela acima.
+2. Se adicionar um token novo, gere de novo o `ingles_original.tsv` a partir de um `croc.db` **original** (sem a tradução):
+   ```bat
+   python -I src\exportar_traducao.py "C:\caminho\do\jogo\croc.db" src\traducao.tsv src\ingles_original.tsv
+   ```
+3. Rode `src\compilar.bat` e teste numa cópia do jogo.
+4. Envie um pull request.
+
+**Nunca** envie arquivos do jogo (`croc.db`, `.rml`, `.rcss`, `.html`, imagens etc.) para o repositório.
+
+## Créditos
+
+- **Tradução e instalador:** MrGeH
+- **Jogo:** Argonaut Games e Titanium Studios
+
+*Croc: Legend of the Gobbos* e todas as marcas relacionadas pertencem aos seus respectivos donos. Os textos originais do jogo incluídos neste repositório servem apenas para permitir a tradução e a desinstalação.
