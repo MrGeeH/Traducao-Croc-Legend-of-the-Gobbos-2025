@@ -4,12 +4,12 @@ NOME DO MOD
 Tradução PT-BR - Croc Legend of the Gobbos Remastered
 
 ==================================================================
-RESUMO (campo "Brief overview" - até 350 caracteres)
+RESUMO
 ==================================================================
 Tradução completa para Português do Brasil: menus, opções, nomes das fases, chefes, segredos e toda a Crocipedia (entrevistas, galeria, curiosidades). Instalador automático, com desinstalação que devolve o jogo ao original. Não precisa mudar o idioma do Windows.
 
 ==================================================================
-DESCRIÇÃO (cole no campo "Detailed description" - formato BBCode)
+DESCRIÇÃO
 ==================================================================
 [center][size=6][b]Croc: Legend of the Gobbos Remastered[/b][/size]
 [size=5]Tradução para o Português (Brasil)[/size]
